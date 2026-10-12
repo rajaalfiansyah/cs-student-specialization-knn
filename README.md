@@ -3,7 +3,7 @@
 A Machine Learning-based web application designed to classify and recommend academic specialization tracks (e.g., Software Engineering, Data Science, Computer Networks) for Computer Science students based on course grades and skill parameters using the K-Nearest Neighbor (KNN) algorithm.
 
 ## 🚀 Live Demo
-- **URL:** *(Nanti diisi link Vercel)*
+- **URL:** https://cs-student-specialization-knn.vercel.app
 
 ## ✨ Features
 - Student academic dataset & course grade input module.
